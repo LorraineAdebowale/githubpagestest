@@ -3,8 +3,6 @@ description: Isabella Photos
 
 # Isabella Photos
 
-{% embed url="https://drive.google.com/drive/folders/1mugZNwmvc26xPEXz8ONZlDUpariVBx5x" caption="https://docs.google.com/spreadsheets/d/1-2hwDfJiCsF6bD8bqJQ44v9rJ18Wgid=1268294089" %}
-
 Isabella oeh o;fih d
 
 
