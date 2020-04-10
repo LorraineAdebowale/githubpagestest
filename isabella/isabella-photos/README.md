@@ -21,10 +21,6 @@ asJDapsjd
 oisj'odijs  
 d'sdaosjdlkjd
 
-
-
-{% embed url="https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf\_eKCPIAYXWzLlPAm6G" %}
-
 {% embed url="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf\_eKCPIAYXWzLlPAm6G" %}
 
 
