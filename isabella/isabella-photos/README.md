@@ -1,6 +1,5 @@
 ---
 description: Isabella Photos
----
 
 # Isabella Photos
 
